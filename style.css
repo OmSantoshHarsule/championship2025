@@ -72,11 +72,11 @@ html{
   }
   
   
-  /* .navbar a:hover{
+  .navbar a:hover{
     color: orange;
     font-size: 23px;
     transition: smooth;
-  } */
+  }
   
  header{
     position: absolute;
